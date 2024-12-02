@@ -61,8 +61,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: <script data-goatcounter="https://medelyn.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script> # fill in your GoatCounter ID
+    id: medelyn # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
